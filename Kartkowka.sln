@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kartkowka", "Kartkowka\Kartkowka.csproj", "{D16BB1C1-E415-4DCE-BEF9-CFC2D856E9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16BB1C1-E415-4DCE-BEF9-CFC2D856E9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16BB1C1-E415-4DCE-BEF9-CFC2D856E9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16BB1C1-E415-4DCE-BEF9-CFC2D856E9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16BB1C1-E415-4DCE-BEF9-CFC2D856E9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2069E53-D91C-48B2-B6CA-0A45F5523890}
+	EndGlobalSection
+EndGlobal
